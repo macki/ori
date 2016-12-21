@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="test.html">Verify_Result_Filtering_Category_Cleanse_Cleanser</a></td></tr>
+<tr><td><a href="test2.html">Verify_Result_Filtering_Category_Cleanse_Cleanser_Toners</a></td></tr>
+<tr><td><a href="test3.html">Verify_Result_Filtering_Category_All</a></td></tr>
+<tr><td><a href="test4.html">Verify_Selection_Category_Cleanse_All_SelectedFacets</a></td></tr>
+<tr><td><a href="test5.html">Verify_Selection_Category_Cleanse_And_toners_SelectedFacets</a></td></tr>
+<tr><td><a href="test6.html">Verify_Selection_Color_In_Category_Dorpdown</a></td></tr>
+<tr><td><a href="test7.html">Verify_Removing_Tags_1</a></td></tr>
+<tr><td><a href="test9.html">Verify_Many_Selecting_Removing_1</a></td></tr>
+<tr><td><a href="test10.html">Verify_Category_FilterResults_All_Segment_1</a></td></tr>
+</tbody></table>
+</body>
+</html>
