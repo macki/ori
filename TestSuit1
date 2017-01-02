@@ -18,6 +18,8 @@
 <tr><td><a href="test9.html">Verify_Selection_Category_And_Filter</a></td></tr>
 <tr><td><a href="test10.html">Verify_Category_FilterResults_All_Segment_1</a></td></tr>
 <tr><td><a href="test11.html">Verify_Select_Filtering_after_reload</a></td></tr>
+<tr><td><a href="test12.html">Verify_Reload_Filter_1</a></td></tr>
+<tr><td><a href="test13.html">Verify_Reload_Filter_2</a></td></tr>
 </tbody></table>
 </body>
 </html>
