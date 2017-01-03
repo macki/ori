@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://www.local.oriflame.cc/skincare/" />
+<title>Verify_Show_More_With_SortBy_Count_Number_Of_Product</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Verify_Show_More_With_SortBy_Count_Number_Of_Product</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/skincare</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Show more</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>2500</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyEval</td>
+	<td>window.document.getElementsByClassName('figure').length</td>
+	<td>104</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//h5[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//li[4]/span/label</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=pricelow</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>1500</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyEval</td>
+	<td>window.document.getElementsByClassName('figure').length</td>
+	<td>104</td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

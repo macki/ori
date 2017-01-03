@@ -23,6 +23,9 @@
 <tr><td><a href="test14.html">Verify_Category_Panel_On_SubcategoryPage</a></td></tr>
 <tr><td><a href="test15.html">Verify_Ajax_SortBy_PriceHight</a></td></tr>
 <tr><td><a href="test16.html">Verify_Ajax_SortBy_PriceHight_Then_PriceLow</a></td></tr>
+<tr><td><a href="test17.html">Verify_Ajax_SortBy_Count_Number_Of_Products</a></td></tr>
+<tr><td><a href="test18.html">Verify_Show_More_With_SortBy_Count_Number_Of_Product</a></td></tr>
+<tr><td><a href="test19.html">Verify_Show_More_With_SortBy_Count_ChangeSorting_WithMax_Products</a></td></tr>
 </tbody></table>
 </body>
 </html>

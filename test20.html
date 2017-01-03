@@ -4,93 +4,74 @@
 <head profile="http://selenium-ide.openqa.org/profiles/test-case">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link rel="selenium.base" href="http://www.local.oriflame.cc/skincare/" />
-<title>Verify_Many_Selecting_Removing_1</title>
+<title>Verify_Show_More_With_SortBy_Action_UseShowMore_During_Change_Sort</title>
 </head>
 <body>
 <table cellpadding="1" cellspacing="1" border="1">
 <thead>
-<tr><td rowspan="1" colspan="3">Verify_Many_Selecting_Removing_1</td></tr>
+<tr><td rowspan="1" colspan="3">Verify_Show_More_With_SortBy_Action_UseShowMore_During_Change_Sort</td></tr>
 </thead><tbody>
 <tr>
 	<td>open</td>
-	<td>/skincare/?count=24</td>
+	<td>/bath-body</td>
 	<td></td>
 </tr>
 <tr>
 	<td>click</td>
-	<td>//h5</td>
-	<td></td>
-</tr>
-<tr>
-	<td>click</td>
-	<td>//div[4]/form/ul/li/h3</td>
-	<td></td>
-</tr>
-<tr>
-	<td>click</td>
-	<td>css=a.category-item</td>
-	<td></td>
-</tr>
-<tr>
-	<td>selectWindow</td>
-	<td>null</td>
-	<td></td>
-</tr>
-<tr>
-	<td>click</td>
-	<td>//h5[2]</td>
-	<td></td>
-</tr>
-<tr>
-	<td>click</td>
-	<td>//li[3]/h3</td>
-	<td></td>
-</tr>
-<tr>
-	<td>click</td>
-	<td>//li[3]/h3</td>
-	<td></td>
-</tr>
-<tr>
-	<td>click</td>
-	<td>//li[4]/h3</td>
-	<td></td>
-</tr>
-<tr>
-	<td>click</td>
-	<td>link=GEL</td>
-	<td></td>
-</tr>
-<tr>
-	<td>click</td>
-	<td>//li[4]/h3</td>
-	<td></td>
-</tr>
-<tr>
-	<td>click</td>
-	<td>//h5[2]</td>
+	<td>link=Show more</td>
 	<td></td>
 </tr>
 <tr>
 	<td>pause</td>
-	<td>2500</td>
-	<td></td>
-</tr>
-<tr>
-	<td>verifyText</td>
-	<td>css=span.total-count</td>
-	<td>3</td>
-</tr>
-<tr>
-	<td>pause</td>
-	<td>2500</td>
+	<td>1500</td>
 	<td></td>
 </tr>
 <tr>
 	<td>click</td>
-	<td>xpath=(//a[contains(text(),'toners')])[2]</td>
+	<td>//h5[3]</td>
 	<td></td>
 </tr>
+<tr>
+	<td>click</td>
+	<td>//li[2]/span/label</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=pricehigh</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>1500</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyEval</td>
+	<td>window.document.getElementsByClassName('figure').length</td>
+	<td>104</td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>1500</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Show more</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>1500</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyEval</td>
+	<td>window.document.getElementsByClassName('figure').length</td>
+	<td>128</td>
+</tr>
+
 </tbody></table>
 </body>
 </html>
