@@ -26,6 +26,7 @@
 <tr><td><a href="test17.html">Verify_Ajax_SortBy_Count_Number_Of_Products</a></td></tr>
 <tr><td><a href="test18.html">Verify_Show_More_With_SortBy_Count_Number_Of_Product</a></td></tr>
 <tr><td><a href="test19.html">Verify_Show_More_With_SortBy_Count_ChangeSorting_WithMax_Products</a></td></tr>
+<tr><td><a href="test20.html">Verify_Show_More_With_SortBy_Action_UseShowMore_During_Change_Sort</a></td></tr>
 </tbody></table>
 </body>
 </html>
